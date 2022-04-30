@@ -1,6 +1,6 @@
 rencana laravel
 - download templete
-
+menambahkan data baru
 
 deskripsi javascript
 + ES6 merupakan syntax javascript terbaru
