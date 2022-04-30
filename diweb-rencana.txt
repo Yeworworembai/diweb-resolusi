@@ -5,3 +5,5 @@ rencana laravel
 deskripsi javascript
 + ES6 merupakan syntax javascript terbaru
 + framework javascript
+
+struktur data
