@@ -1,9 +1,8 @@
 rencana laravel
 - download templete
-
+data dasar
 
 deskripsi javascript
 + ES6 merupakan syntax javascript terbaru
 + framework javascript
-
-struktur data
+laravel
