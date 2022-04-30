@@ -2,3 +2,4 @@ diweb-resolusi
 - konsisten belajar programing web dari sekarang dilakukan setiap hari dimulai dari pagi hingga jam 10
 - dimulai dari pemrograman awal dari html, css, boostrap sampai penggunaan freamwork seperti laravel
 - target nya untuk menguasai css, dan javascript minimal 2 minggu
+- membuat portfolio menarik untuk di jadian cv programing
